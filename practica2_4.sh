@@ -1,6 +1,6 @@
 #!/bin/bash
-#868801, Gallardo Jaso , Jorge, [T], [1], [A]
-#869402, Baldovin Cotela, Enrique, [T], [1], [A]
+#868801, Gallardo Jaso, Jorge, T, 1, A
+#869402, Baldovin Cotela, Enrique, T, 1, A
 
 IFS=
 read -r -p "Introduzca una tecla: " letra
