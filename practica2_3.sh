@@ -1,6 +1,6 @@
 #!/bin/bash
-#868801, Gallardo Jaso , Jorge, [T], [1], [A]
-#869402, Baldovin Cotela, Enrique, [T], [1], [A]
+#868801, Gallardo Jaso, Jorge, T, 1, A
+#869402, Baldovin Cotela, Enrique, T, 1, A
 
 fichero="$1"
 if [ "$#" -ne 1 ]
