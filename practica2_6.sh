@@ -1,6 +1,6 @@
 #!/bin/bash
-#868801, Gallardo Jaso , Jorge, [T], [1], [A]
-#869402, Baldovin Cotela, Enrique, [T], [1], [A]
+#868801, Gallardo Jaso, Jorge, T, 1, A
+#869402, Baldovin Cotela, Enrique, T, 1, A
 
 dir=""
 fecha_m=0
